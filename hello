@@ -1,0 +1,20 @@
+
+#include <stdio.h>
+
+int main()
+{
+	int n;
+	int d,i;
+    scanf("%d",&n);
+    {
+   // for(n=1;n<=1000;n++)
+    
+    if(n%3==0)
+    
+    
+      printf("YES");
+    else
+    printf("NO");
+    }
+     return 0;
+}
